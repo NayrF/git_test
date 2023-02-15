@@ -1,1 +1,2 @@
 Adding multiple things to commit to git using the .add command! 
+fuck shit 
